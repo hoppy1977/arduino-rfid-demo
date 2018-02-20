@@ -1,4 +1,4 @@
-# RFID Evaluation Shield Firmware
+# Arduino RFID Demo
 
 Test Arduino sketch for RFID shield. 
 
